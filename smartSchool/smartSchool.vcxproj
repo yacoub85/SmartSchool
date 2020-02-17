@@ -155,6 +155,7 @@
     <ClInclude Include="Room.h" />
     <ClInclude Include="SmartSchool.h" />
     <ClInclude Include="Student.h" />
+    <ClInclude Include="Ventilation.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
