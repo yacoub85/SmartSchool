@@ -1,0 +1,2 @@
+# SmartSchool
+ Smart school project
