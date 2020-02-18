@@ -5,5 +5,6 @@ class Ventilation : public Equipment
 {
 protected:
 	int x;
+	int y;
 
 };

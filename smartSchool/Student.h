@@ -26,6 +26,14 @@ public:
 	
 	void set_ID(short int counter) { ID = counter + (registrationYear * 1000); }
 
+	void set_activatePerson(string UID) { tagUID = UID; };
+
+
+
+	string get_firstName() { return firstName; }
+	string get_lastName() { return lastName; }
+
+	char get_typOfPerson() { return typOfPerson; }
 
 	int get_stdentID(string fName, string lName, string pro, short int year)
 	{
@@ -36,8 +44,10 @@ public:
 		else
 			return -1;
 	}
+
+	string get_tagUID() { return tagUID; }
 	
-	char get_typOfPerson() { return typOfPerson; }
+	
 
 	
 };

@@ -1,0 +1,4 @@
+﻿  smartSchool.cpp
+D:\GItHub\SmartSchoolProject\SmartSchool\smartSchool\smartSchool.cpp(23,14): warning C4101: 'newTeacher': unreferenced local variable
+D:\GItHub\SmartSchoolProject\SmartSchool\smartSchool\SmartSchool.h(77): warning C4715: 'SmartSchool::findByPersonsID': not all control paths return a value
+  smartSchool.vcxproj -> D:\GItHub\SmartSchoolProject\SmartSchool\x64\Debug\smartSchool.exe
